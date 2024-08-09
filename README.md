@@ -1,0 +1,2 @@
+The AHP was first introduced by Saaty for solving a complex problem by splitting it into different categories and integrating each subsection to find out the big picture that has to be solved. 
+This method relies on building a hierarchy of decision elements and then making pairwise comparisons in a matrix form. The pairwise comparison matrix is formed for the selected parameters and the normalized principal eigen values of the matrix gives the weight of each parameter. 
